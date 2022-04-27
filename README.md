@@ -13,3 +13,9 @@
 
 6. JohnHollinger.mp4
 * Video of pro soccer player for the Maryland Bobcats
+
+7. OpenPose_KeyPoints.zip
+* Key points files generated through OpenPose
+
+8. Vicon_Motion_Capture_keypoints.zip
+* Key points files generated through Vicon motion capture system
