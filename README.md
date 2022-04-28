@@ -19,3 +19,4 @@
 
 8. Vicon_Motion_Capture_keypoints.zip
 * Key points files generated through Vicon motion capture system
+![image](https://user-images.githubusercontent.com/66143861/165653343-d844a4b0-2f47-483b-8439-00561dd89b7f.png)
