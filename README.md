@@ -1,4 +1,4 @@
-### DeepLearning
+### DeepLearning Final Project 
 # Files Consist of:
 1. MotionCapture.py
 * Takes an input mp4 file and runs MediaPipe markerless motion capture
